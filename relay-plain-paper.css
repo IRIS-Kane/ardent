@@ -3,7 +3,7 @@
   min-height: 200px;
   margin: auto;
   border: 48px solid;
-  border-image-source: url(paper-border-2.png);
+  border-image-source: url(./paper-border-2.png);
   border-image-slice: 12.5% fill;
   border-image-repeat: stretch;
   padding: 30px 90px;
